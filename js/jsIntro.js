@@ -128,3 +128,4 @@ const d = a.reduce(function (prevValue, elem, i, array) {
   return prevValue * elem;
 });
 document.writeln(d + "<br/>");
+
